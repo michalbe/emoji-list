@@ -1,6 +1,6 @@
 {
   "name": "emoji-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Michał Budzyński <michal@virtualdesign.pl>",
   "repository": "git@github.com:michalbe/emoji-list.git",
   "devDependencies": {

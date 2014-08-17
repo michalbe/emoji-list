@@ -24,5 +24,3 @@ console.log(el);
 //  ...
 
 ```
-
-Thanks [@mmalecki](http://github.com/mmalecki) for help.
